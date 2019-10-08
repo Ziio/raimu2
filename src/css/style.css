@@ -7,6 +7,8 @@
 .nav-item{
     margin-right: 40px;
     margin-left: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
 }
 
 .navbar-light .navbar-toggler {
@@ -14,6 +16,10 @@
     border-color: rgba(0, 0, 0, 0);
 }
 
-.tab-content{
+.tab-content {
     margin-top: 30px;
 }
+
+/* #raimubg {
+    background-image: url("/src/images/raimuBg.jpg");
+} */
